@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2018-07-30
+  course: MyString
+  distance: 1
+  time: 1
+  pace: 1
+  type: 
+
+two:
+  date: 2018-07-30
+  course: MyString
+  distance: 1
+  time: 1
+  pace: 1
+  type: 
